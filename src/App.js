@@ -4,7 +4,7 @@ import TransactionForm from './components/TransactionForm';
 import BudgetOverview from './components/BudgetOverview';
 import ExpenseChart from './components/ExpenseChart';
 import Recommendations from './components/Recommendations';
-import TransactionsTable from './components//TransactionsTable ';
+import TransactionsTable from './components/TransactionsTable ';
 import ReportModal from './components/ReportModal';
 import AccountingSystem from './components/AccountingSystem'; // تأكد من وضع المسار الصحيح للمكون
 
